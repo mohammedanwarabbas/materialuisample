@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/materialui/static/css/main.b0fc9edd.css",
-    "main.js": "/materialui/static/js/main.bcf61022.js",
-    "static/js/592.88ac322d.chunk.js": "/materialui/static/js/592.88ac322d.chunk.js",
-    "index.html": "/materialui/index.html",
-    "main.b0fc9edd.css.map": "/materialui/static/css/main.b0fc9edd.css.map",
-    "main.bcf61022.js.map": "/materialui/static/js/main.bcf61022.js.map",
-    "592.88ac322d.chunk.js.map": "/materialui/static/js/592.88ac322d.chunk.js.map"
+    "main.css": "/materialuisample/static/css/main.b0fc9edd.css",
+    "main.js": "/materialuisample/static/js/main.bcf11993.js",
+    "static/js/592.88ac322d.chunk.js": "/materialuisample/static/js/592.88ac322d.chunk.js",
+    "index.html": "/materialuisample/index.html",
+    "main.b0fc9edd.css.map": "/materialuisample/static/css/main.b0fc9edd.css.map",
+    "main.bcf11993.js.map": "/materialuisample/static/js/main.bcf11993.js.map",
+    "592.88ac322d.chunk.js.map": "/materialuisample/static/js/592.88ac322d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0fc9edd.css",
-    "static/js/main.bcf61022.js"
+    "static/js/main.bcf11993.js"
   ]
 }
