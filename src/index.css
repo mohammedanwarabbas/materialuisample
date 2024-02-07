@@ -1,13 +1,19 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.navbar-brand {
+  font-family: 'Dokdo', sans-serif;
+  font-size: 2.5rem;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.nav-link{
+  font-family: 'Kanit', sans-serif;
+}
+
+@media (max-width:768px){
+  .navbar-brand {
+    font-family: 'Protest Revolution', sans-serif;
+    font-size: 1rem;
+  }
+}
+
+h4{
+  margin:0.1rem;
 }
