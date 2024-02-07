@@ -62,10 +62,10 @@ export default function Home() {
     <h4>Radio Group</h4>
     <FormControl>
       <FormLabel id="demo-row-radio-buttons-group-label">Gender</FormLabel>
-      <RadioGroup
+      <RadioGroup style={{display:'flex',justifyContent:'center'}}
         row
         aria-labelledby="demo-row-radio-buttons-group-label"
-        name="row-radio-buttons-group"
+        name="row-radio-buttons-group" 
       >
         <FormControlLabel value="female" control={<Radio />} label="Female" />
         <FormControlLabel value="male" control={<Radio />} label="Male" />
