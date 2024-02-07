@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/materialui/static/css/main.b0fc9edd.css",
+    "main.js": "/materialui/static/js/main.bcf61022.js",
+    "static/js/592.88ac322d.chunk.js": "/materialui/static/js/592.88ac322d.chunk.js",
+    "index.html": "/materialui/index.html",
+    "main.b0fc9edd.css.map": "/materialui/static/css/main.b0fc9edd.css.map",
+    "main.bcf61022.js.map": "/materialui/static/js/main.bcf61022.js.map",
+    "592.88ac322d.chunk.js.map": "/materialui/static/js/592.88ac322d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0fc9edd.css",
+    "static/js/main.bcf61022.js"
+  ]
+}
